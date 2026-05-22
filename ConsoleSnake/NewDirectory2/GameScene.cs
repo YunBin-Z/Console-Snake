@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Csharp核心贪吃蛇项目.NewDirectory4;
-using Csharp核心贪吃蛇项目.NewDirectory5;
-using Csharp核心贪吃蛇项目.NewDirectory6;
+using ConsoleSnake.NewDirectory4;
+using ConsoleSnake.NewDirectory5;
+using ConsoleSnake.NewDirectory6;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory2;
+namespace ConsoleSnake.NewDirectory2;
 
 public class GameScene:ISceneUpdate
 {

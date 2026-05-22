@@ -1,6 +1,6 @@
-using Csharp核心贪吃蛇项目.NewDirectory2;
+using ConsoleSnake.NewDirectory2;
 
-namespace Csharp核心贪吃蛇项目;
+namespace ConsoleSnake;
 
 public enum E_SceneType
 {

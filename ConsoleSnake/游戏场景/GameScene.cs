@@ -1,5 +1,5 @@
 //  
-// namespace Csharp核心贪吃蛇项目;
+// namespace ConsoleSnake;
 //
 // public class GameScene:ISceneUpdate
 // {

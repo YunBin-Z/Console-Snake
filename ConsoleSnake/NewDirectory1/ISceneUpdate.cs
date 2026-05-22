@@ -1,6 +1,6 @@
 using System;
 
-namespace Csharp核心贪吃蛇项目;
+namespace ConsoleSnake;
 
 public interface ISceneUpdate
 {

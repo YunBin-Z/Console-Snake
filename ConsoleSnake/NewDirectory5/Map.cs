@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Csharp核心贪吃蛇项目.NewDirectory3;
-using Csharp核心贪吃蛇项目.NewDirectory4;
+using ConsoleSnake.NewDirectory3;
+using ConsoleSnake.NewDirectory4;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory5;
+namespace ConsoleSnake.NewDirectory5;
 
  class Map :IDraw
 {

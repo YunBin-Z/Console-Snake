@@ -1,6 +1,6 @@
 using System;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory3;
+namespace ConsoleSnake.NewDirectory3;
 
 public interface IDraw
 {

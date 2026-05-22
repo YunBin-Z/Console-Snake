@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp核心贪吃蛇项目", "Csharp核心贪吃蛇项目\Csharp核心贪吃蛇项目.csproj", "{F5E2D8BC-40B0-4491-B652-4BE7AE03D357}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnake", "ConsoleSnake\ConsoleSnake.csproj", "{F5E2D8BC-40B0-4491-B652-4BE7AE03D357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Csharp核心贪吃蛇项目.NewDirectory3;
-using Csharp核心贪吃蛇项目.NewDirectory4;
-using Csharp核心贪吃蛇项目.NewDirectory5;
+using ConsoleSnake.NewDirectory3;
+using ConsoleSnake.NewDirectory4;
+using ConsoleSnake.NewDirectory5;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory6;
+namespace ConsoleSnake.NewDirectory6;
 public enum E_Diretion
 {
     N,

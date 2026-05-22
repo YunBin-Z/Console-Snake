@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Csharp核心贪吃蛇项目.NewDirectory3;
+using ConsoleSnake.NewDirectory3;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory4;
+namespace ConsoleSnake.NewDirectory4;
 
 enum E_SnakeBody_Type
 {

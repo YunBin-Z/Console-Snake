@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory2;
+namespace ConsoleSnake.NewDirectory2;
 
 abstract class BeginOrEndBaseScene:ISceneUpdate
 {

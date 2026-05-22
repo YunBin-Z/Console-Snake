@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory3;
+namespace ConsoleSnake.NewDirectory3;
 
 abstract class GameObject:IDraw
 {

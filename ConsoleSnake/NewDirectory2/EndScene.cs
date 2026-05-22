@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp核心贪吃蛇项目.NewDirectory2;
+namespace ConsoleSnake.NewDirectory2;
 
- class BeginScene:BeginOrEndBaseScene
+ class EndScene:BeginOrEndBaseScene
 {
-    public BeginScene()
+     public EndScene()
     {
-        strTitle ="贪吃蛇";
-        strOne ="开始游戏";
+        strTitle = "游戏结束";
+        strOne = "重新开始游戏";
     }
     public override void EnterDoSomething()
     {
